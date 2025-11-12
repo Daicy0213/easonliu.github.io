@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 
+I am a third-year graduate student at [haut](https://www.haut.edu.cn/). The current work is focused on the field of AI. 
+
+我是一名[河南工业大学](https://www.haut.edu.cn/)的三年级研究生。目前的主要工作主要集中在人工智能领域。
 
 A data-driven personal website
 ======
